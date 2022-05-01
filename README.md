@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Victor, estudante de programação e tecnologia!
+<!---<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">-->
 
 - 🐕 Humano do Zion e Max
 
@@ -14,3 +15,10 @@
   <img align="center" alt="Zion-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Zion-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/8QO0Qk29p28AAAAM/sett-berrinche.gif">
 </div>
+
+##
+  
+<div>
+      <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>  
+  
