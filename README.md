@@ -22,11 +22,11 @@
   <img align="center" alt="Zion-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Zion-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Zion-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Zion-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/8QO0Qk29p28AAAAM/sett-berrinche.gif">
-</div>
+</div> 
   
 
-##
+#
+  
   
  
   
