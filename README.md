@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Victor, estudante de programação e tecnologia!
 <!---<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">-->
 
-- 🐕 Humano do Zion e Max
+- 🐕 Humano do Zion e do Max
 
 - 🧑🏾‍🚀 Meu nome é Victor. Sou uma pessoa estudiosa, comunicativa, persistente, autodidata, simpática, determinada e focada. 
 
-- 💡 Como profissional, eu sempre fui apaixonado por resolver problemas e desafios singulares. Isso me levou a cursar uma faculdade e cursos na área da tecnologia. Atualmente eu estudo e possuo habilidades em HTML, CSS e Bootstrap, porém estou aprendendo e refinando minhas habilidades em JavaScript e Python.
+- 🕵🏼‍♂️ Eu sempre foi apaixonado por códigos, programação e desagios singulares. Tais características me levaram a estudar e me apronfundar no universo da programação.
 
-- 💻 Já atuei como Estagiário de TI, experiência na qual eu acredito que teve uma função primordial na formação do meu caráter, tanto profissional quanto pessoal. Portanto, trabalhando como estagiário eu aprendi diversas coisas, que vão desde manutenção de computadores até o espírito de trabalho em equipe.
+- 💻 Atualmente eu estudo linguagens para desenvolvimento web, tanto front-end quanto back-end. 
 
-- 🏈 E no meu tempo livre eu amo praticar esportes, experimentar comidas diferentes e me divertir com os amigos e familiares.
+- 🏈 E no meu tempo livre eu amo ler livros, jogar jogos digitais, praticar esportes, experimentar comidas diferentes e me divertir com os amigos e familiares.
 
 <div>
   <a href="https://github.com/ZionODog">
@@ -20,13 +20,12 @@
   <img align="center" alt="Zion-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zion-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Zion-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Zion-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Zion-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Zion-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <br><br>
+
+  <img align="center" alt="Zion-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div> 
   
 
 #
-  
-  
- 
   
